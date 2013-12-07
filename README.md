@@ -6,10 +6,13 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://www.ineesite.org/uploads/images/pages/EDUCATION_FIRSTgirlShadow2.jpg)
 ---
 #Scale
 1 classroom (~30)
+![IMG_2918.JPG](http://ird.utpb.edu/media/images/Classroom%20Right%202.jpg)
+
+
 
 ---
 #Overall
